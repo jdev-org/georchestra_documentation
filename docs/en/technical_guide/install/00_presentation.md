@@ -1,6 +1,6 @@
-# Présentation
+# Presentation
 
-## Architecture composant
+## Architecture
 
 Présentation de la hiérarchie du composant
 

@@ -1,4 +1,4 @@
-# Aide à la syntaxe
+# Syntax help
 
 Cette page n'est là que pour aider les rédacteur à prendre en main la syntaxe markdown elle-même enrichie par mkdocs et ses plugins.
 
@@ -6,10 +6,10 @@ Se reporter à [ce site](https://www.markdownguide.org/basic-syntax/) pour des e
 
 
 
-## Titres et hiérarchisation
+## Titles and orders
 
 
-## Images
+## Pictures
 
 Mettre les images dans le répertoire `images` du même niveau que le fichier markdown.
 
@@ -19,7 +19,7 @@ Mettre les images dans le répertoire `images` du même niveau que le fichier ma
 
 
 
-## Liens
+## Links
 
 
 ## Notes, avertissements

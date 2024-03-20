@@ -1,6 +1,6 @@
-# Sommaire
+# Summary
 
-Sommaire de la partie "Développer"
+Develop part summary
 
 ![](images/developper.jpg)
 

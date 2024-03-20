@@ -1,4 +1,4 @@
-# Vue globale
+# Global view
 
 Vue globale de la page qui apparaît lorsque l'on ouvre le produit, avec encards ou numéros localisant et nommant les différents outils décrits dans les différentes parties.
 

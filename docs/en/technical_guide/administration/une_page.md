@@ -1,5 +1,4 @@
-# Une page
-
+# A page
 
 Une page de la partie "Administrer"
 

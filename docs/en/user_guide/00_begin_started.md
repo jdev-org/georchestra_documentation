@@ -1,4 +1,4 @@
-# Prendre en main rapidement
+# Begin started
 
 Documentation assez courte sur la manière de s'y retrouver très rapidement dans le produit (en quelques clics), en focalisant sur les fonctionnalités essentielles, pour ne pas perdre des utilisateurs débutants ou peu à l'aise avec ce type d'outil.
 

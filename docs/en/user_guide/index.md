@@ -1,4 +1,4 @@
-# Sommaire du guide utilisateur
+# User guide summary
 
 Cette page est dédiée au sommaire du guide utilisateur du composant, c'est-à-dire à la documentation de référence qui décrit toutes les fonctionnalités et outils du composant à destination des **utilisateurs**.
 La table des matières pour le guide est intégrée ici.

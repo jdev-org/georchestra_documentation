@@ -4,9 +4,9 @@ hide:
   - toc
 ---
 
-# Accueil
+# Welcome
 
-## C'est quoi ?
+## What is this ?
 
 Le composant Mon composant permet de faire la fonctionnalité XXXX.
 
