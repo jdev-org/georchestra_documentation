@@ -50,10 +50,10 @@ extra:
 copyright: '© 2023 - geOrchestra'
 
 extra_css:
-    - css/extra.css
+    - en/css/extra.css
 
 extra_javascript:
-    - assets/custom_versions.js
+    - en/assets/custom_versions.js
 
 # arborescence de 1er et 2e niveau à gérer ici
 # Ces entrées correspondent au modèle de documentation
